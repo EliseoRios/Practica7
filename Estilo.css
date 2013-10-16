@@ -1,0 +1,14 @@
+table
+{
+  position: absolute; 
+  top: 90px; 
+  left: 300px; 
+  color: black; 
+  border-color:#1828D2;
+  font-size: x-large
+}
+
+th
+{
+  color:#24CD3E;
+}
